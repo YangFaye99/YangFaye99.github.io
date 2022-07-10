@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://YangFaye99.github.io</id>
+    <title>Faye的互联网自留地</title>
+    <updated>2022-07-10T02:07:15.094Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://YangFaye99.github.io"/>
+    <link rel="self" href="https://YangFaye99.github.io/atom.xml"/>
+    <subtitle>你掉进了一个放在码头的薯条盒......</subtitle>
+    <logo>https://YangFaye99.github.io/images/avatar.png</logo>
+    <icon>https://YangFaye99.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, Faye的互联网自留地</rights>
+    <entry>
+        <title type="html"><![CDATA[这里可能含有……]]></title>
+        <id>https://YangFaye99.github.io/post/ben-bo-ke-ke-neng-han-you/</id>
+        <link href="https://YangFaye99.github.io/post/ben-bo-ke-ke-neng-han-you/">
+        </link>
+        <updated>2022-06-26T12:48:42.000Z</updated>
+        <summary type="html"><![CDATA[<p>😸</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>😸</p>
+<!-- more -->
+<ol>
+<li>
+<p>学习笔记，知识整理</p>
+<p>都是符合小白博主水平的，如果有不小心路过的人请轻喷&gt; &lt;</p>
+</li>
+<li>
+<p>个人碎碎念</p>
+<p>读书，看电影，看漫画，看剧，思考等等……</p>
+</li>
+</ol>
+]]></content>
+    </entry>
+</feed>
